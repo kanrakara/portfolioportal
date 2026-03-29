@@ -14,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'images/works/jewelry.png',
         'images/works/kikori.png',
         'images/works/run_gun.png',
+        'images/works/readme5.png'
     ];
 
     const slideArea = document.querySelector('.slide-area');
